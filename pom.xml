@@ -15,6 +15,7 @@
         <module>common-kafka</module>
         <module>service-new-order</module>
         <module>service-log</module>
+        <module>service-mail-sender</module>
     </modules>
 
     <properties>
